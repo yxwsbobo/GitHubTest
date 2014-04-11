@@ -2,8 +2,8 @@
 
 class a
 {
-int a()
+int ad()
 {
  int bb = 0;
  }
-}
+};
